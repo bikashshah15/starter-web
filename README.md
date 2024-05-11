@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 New Section
 More changes
 Third change
+
+###Copyright
+Latest copyright 2024
